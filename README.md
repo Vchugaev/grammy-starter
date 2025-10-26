@@ -1,4 +1,4 @@
-# Grammy.js Bot Template
+# Grammy.js Bot Starter
 
 Стартовый шаблон для создания Telegram бота на TypeScript с использованием Grammy.js.
 
