@@ -1,0 +1,32 @@
+{
+  "name": "grammy-template",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --watch src --exec \"tsx src/bot.ts\"",
+    "build": "tsc",
+    "start": "node dist/bot.js"
+  },
+  "dependencies": {
+    "@grammyjs/commands": "^1.2.0",
+    "@grammyjs/conversations": "^2.1.0",
+    "dotenv": "^17.2.3",
+    "grammy": "^1.38.3",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "@typescript-eslint/eslint-plugin": "^8.46.2",
+    "@typescript-eslint/parser": "^8.46.2",
+    "eslint": "^9.38.0",
+    "eslint-plugin-import": "^2.32.0",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
