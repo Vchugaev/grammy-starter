@@ -188,7 +188,7 @@ export default async function connectDB() {
 Если у вас есть вопросы или проблемы:
 
 1. Проверьте [документацию Grammy.js](https://grammy.dev/)
-2. Создайте [Issue](https://github.com/your-username/grammy-starter/issues)
+2. Создайте Issue
 3. Обратитесь к [Telegram Bot API документации](https://core.telegram.org/bots/api)
 
 ## 🔗 Полезные ссылки
