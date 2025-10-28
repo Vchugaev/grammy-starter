@@ -43,7 +43,7 @@ src/
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Vchugaev/grammy-starter
    ```
 
 2. **Установите зависимости:**
